@@ -1,6 +1,6 @@
 # magic-square-finder
 
-Trabalho Prático de Inteligência Artificla - UNISC 2016/1
+Trabalho Prático de Inteligência Artificial - UNISC 2016/1
 
 Este aplicativo encontra quadrados mágicos através de força bruta. Quadrados mágicos são matrizes quadradas onde
 a soma de todas as linhas e colunas, e das diagonais principais e secundárias, resultam no mesmo valor. Abaixo
