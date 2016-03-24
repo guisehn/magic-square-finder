@@ -13,5 +13,5 @@ um exemplo de um quadrado mágico 3x3.
 ```
 
 Este programa não utiliza nenhuma técnica de inteligência artificial, apenas força bruta. A ideia é comparar
-a performance do algoritmo com uma versão deste aplicativo que encontre os mesmos valores utilizandoe algoritmos
+a performance do algoritmo com uma versão deste aplicativo que encontre os mesmos valores utilizando algoritmos
 genéticos, que será desenvolvido em breve.
