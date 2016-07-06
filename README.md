@@ -9,4 +9,6 @@ a soma de todas as linhas e colunas, e das diagonais principais e secundárias, 
 
 ![Quadrado mágico](https://wikimedia.org/api/rest_v1/media/math/render/svg/3bc23e727d4029de3d46c2b70b8eafd4fa718b70)
 
+Ele demora em média um segundo para encontrar todos os quadrados mágicos 3x3 (são oito), e de cinco a sete horas para encontrar os primeiros dez quadrados mágicos de tamanho 4 (testado em um [MacBook Pro 13" early 2015](https://support.apple.com/kb/sp715?locale=en_US)). Quadrados de tamanhos maiores não foram testados.
+
 Este programa não utiliza nenhuma técnica de inteligência artificial, apenas força bruta. Foi desenvolvido para comparar a eficiência com uma versão desenvolvida utilizando algoritmo genético, que pode ser encontrada em: https://github.com/guisehn/genetic-magic-square-finder
